@@ -7,12 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Founded in 2023,The NUT Fantasy Football League began as a group of friends living in the same neighborhood the casual ESPN Auction or Yahoo Fantasy Football leauge. Then in the beginning of 2023 a couple of them discussed transitioning to a full-fledged long-term commitment, Dynasty League </p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in 2023, The NUT Fantasy Football League began as a group of friends living in the same neighborhood as the casual ESPN Auction or Yahoo Fantasy Football League. Then at the beginning of 2023, a couple of them discussed transitioning to a full-fledged long-term commitment, Dynasty League. </p>
+  <p>Now in our inaugural season, the managers will compete to win the NUT Cup and avoid trying to fly the ever-humiliating losers flag.</p>
+  
 `;
 
 /*   STEP 3   */
